@@ -4,3 +4,6 @@ Inteligência com fontes abertas – Open Source Intelligence (OSINT) – é um 
 
 🚀 Começando
 
+### Links de Apoio / Ferramentas 
+
+https://osintframework.com/
